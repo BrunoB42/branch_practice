@@ -9,3 +9,4 @@ These are a few of my favorite things:
 - Not editing directly on GitHub
 - Not working on projects
 - Fluffy blankets
+- Watching shows with my friends
